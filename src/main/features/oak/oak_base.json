@@ -6,7 +6,7 @@
             "start-order":"10"
         },
         {
-            "id":"com.google.guava:guava:16.0",
+            "id":"com.google.guava:guava:15.0",
             "start-order":"15"
         },
         {

@@ -206,7 +206,7 @@
             "start-order":"10"
         },
         {
-            "id":"io.dropwizard.metrics:metrics-core:4.0.0",
+            "id":"io.dropwizard.metrics:metrics-core:3.2.6",
             "start-order":"15"
         },
         {
